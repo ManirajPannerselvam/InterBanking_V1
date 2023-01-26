@@ -1,0 +1,434 @@
+2023-01-21 18:08:50,843 - TC_LoginTest_001 -INFO - URL is opened
+2023-01-21 18:08:51,120 - TC_LoginTest_001 -INFO - UserName is Enter
+2023-01-21 18:08:51,268 - TC_LoginTest_001 -INFO - Password is Enter
+2023-01-21 18:08:56,214 - TC_LoginTest_001 -INFO - Press Login Button
+2023-01-21 18:08:56,233 - TC_LoginTest_001 -INFO - Login is Pass
+2023-01-21 19:00:55,650 - TC_LoginTest_001 -INFO - URL is opened
+2023-01-21 19:00:55,846 - TC_LoginTest_001 -INFO - UserName is Enter
+2023-01-21 19:00:55,971 - TC_LoginTest_001 -INFO - Password is Enter
+2023-01-21 19:01:17,402 - TC_LoginTest_001 -INFO - Press Login Button
+2023-01-21 19:01:17,420 - TC_LoginTest_001 -INFO - Login is Pass
+2023-01-21 20:04:12,818 - TC_LoginTest_001 -INFO - URL is opened
+2023-01-21 20:04:13,010 - TC_LoginTest_001 -INFO - UserName is Enter
+2023-01-21 20:04:13,122 - TC_LoginTest_001 -INFO - Password is Enter
+2023-01-21 20:04:29,600 - TC_LoginTest_001 -INFO - Press Login Button
+2023-01-22 12:27:40,656 - ebanking -INFO - userName enter
+2023-01-22 12:27:40,803 - ebanking -INFO - Password Enter
+2023-01-22 12:28:06,832 - ebanking -INFO - Click login
+2023-01-22 12:28:06,860 - ebanking -INFO - Login successfull
+2023-01-22 12:28:20,841 - ebanking -INFO - userName enter
+2023-01-22 12:28:20,971 - ebanking -INFO - Password Enter
+2023-01-22 12:28:22,541 - ebanking -INFO - Click login
+2023-01-22 12:28:33,789 - ebanking -INFO - userName enter
+2023-01-22 12:28:33,928 - ebanking -INFO - Password Enter
+2023-01-22 12:28:40,504 - ebanking -INFO - Click login
+2023-01-22 12:28:54,675 - ebanking -INFO - userName enter
+2023-01-22 12:28:54,789 - ebanking -INFO - Password Enter
+2023-01-22 12:29:09,290 - ebanking -INFO - Click login
+2023-01-22 12:29:09,301 - ebanking -INFO - Login successfull
+2023-01-22 14:05:36,873 - ebanking -INFO - UserName Provide
+2023-01-22 14:05:36,949 - ebanking -INFO - Password Provide
+2023-01-22 14:05:45,092 - ebanking -INFO - login click
+2023-01-22 14:05:45,668 - ebanking -INFO - Click new Customer link
+2023-01-22 14:12:15,181 - ebanking -INFO - UserName Provide
+2023-01-22 14:12:15,275 - ebanking -INFO - Password Provide
+2023-01-22 14:12:31,043 - ebanking -INFO - login click
+2023-01-22 14:14:34,572 - ebanking -INFO - UserName Provide
+2023-01-22 14:14:34,651 - ebanking -INFO - Password Provide
+2023-01-22 14:14:55,842 - ebanking -INFO - login click
+2023-01-22 14:15:13,461 - ebanking -INFO - Click new Customer link
+2023-01-22 14:15:13,526 - ebanking -INFO - Name Provide
+2023-01-22 14:15:13,582 - ebanking -INFO - Click Gander
+2023-01-22 14:15:13,712 - ebanking -INFO - DOB Provide
+2023-01-22 14:15:13,810 - ebanking -INFO - Address Provide
+2023-01-22 14:15:13,882 - ebanking -INFO - City Provide
+2023-01-22 14:15:13,947 - ebanking -INFO - State Provide
+2023-01-22 14:15:14,019 - ebanking -INFO - pincode Provide
+2023-01-22 14:15:14,084 - ebanking -INFO - MobileNumber Provide
+2023-01-22 14:15:14,167 - ebanking -INFO - EmailID Provide
+2023-01-22 14:15:14,230 - ebanking -INFO - Password Provide
+2023-01-22 14:15:17,393 - ebanking -INFO - Take Screenshot
+2023-01-22 14:19:14,897 - ebanking -INFO - UserName Provide
+2023-01-22 14:19:14,979 - ebanking -INFO - Password Provide
+2023-01-22 14:19:46,981 - ebanking -INFO - login click
+2023-01-22 14:19:58,403 - ebanking -INFO - Click new Customer link
+2023-01-22 14:19:58,468 - ebanking -INFO - Name Provide
+2023-01-22 14:19:58,519 - ebanking -INFO - Click Gander
+2023-01-22 14:19:58,654 - ebanking -INFO - DOB Provide
+2023-01-22 14:19:58,752 - ebanking -INFO - Address Provide
+2023-01-22 14:19:58,823 - ebanking -INFO - City Provide
+2023-01-22 14:19:58,893 - ebanking -INFO - State Provide
+2023-01-22 14:19:58,967 - ebanking -INFO - pincode Provide
+2023-01-22 14:19:59,038 - ebanking -INFO - MobileNumber Provide
+2023-01-22 14:19:59,126 - ebanking -INFO - EmailID Provide
+2023-01-22 14:19:59,187 - ebanking -INFO - Password Provide
+2023-01-22 14:25:16,272 - ebanking -INFO - UserName Provide
+2023-01-22 14:25:16,350 - ebanking -INFO - Password Provide
+2023-01-22 14:25:23,808 - ebanking -INFO - login click
+2023-01-22 14:25:24,389 - ebanking -INFO - Click new Customer link
+2023-01-22 14:25:43,443 - ebanking -INFO - Name Provide
+2023-01-22 14:25:43,493 - ebanking -INFO - Click Gander
+2023-01-22 14:25:43,622 - ebanking -INFO - DOB Provide
+2023-01-22 14:25:43,718 - ebanking -INFO - Address Provide
+2023-01-22 14:25:43,789 - ebanking -INFO - City Provide
+2023-01-22 14:25:43,858 - ebanking -INFO - State Provide
+2023-01-22 14:25:44,031 - ebanking -INFO - pincode Provide
+2023-01-22 14:25:44,103 - ebanking -INFO - MobileNumber Provide
+2023-01-22 14:25:44,201 - ebanking -INFO - EmailID Provide
+2023-01-22 14:25:44,266 - ebanking -INFO - Password Provide
+2023-01-22 14:25:44,412 - ebanking -INFO - Summit
+2023-01-22 17:25:00,765 - ebanking -INFO - UserName Provide
+2023-01-22 17:25:00,898 - ebanking -INFO - Password Provide
+2023-01-22 17:25:23,847 - ebanking -INFO - login click
+2023-01-22 17:25:24,459 - ebanking -INFO - Click new Customer link
+2023-01-22 17:25:33,934 - ebanking -INFO - Name Provide
+2023-01-22 17:25:34,020 - ebanking -INFO - Click Gander
+2023-01-22 17:25:34,237 - ebanking -INFO - DOB Provide
+2023-01-22 17:25:34,402 - ebanking -INFO - Address Provide
+2023-01-22 17:25:34,515 - ebanking -INFO - City Provide
+2023-01-22 17:25:34,626 - ebanking -INFO - State Provide
+2023-01-22 17:25:34,735 - ebanking -INFO - pincode Provide
+2023-01-22 17:25:34,844 - ebanking -INFO - MobileNumber Provide
+2023-01-22 17:25:35,245 - ebanking -INFO - EmailID Provide
+2023-01-22 17:25:35,354 - ebanking -INFO - Password Provide
+2023-01-22 17:25:35,483 - ebanking -INFO - Summit
+2023-01-22 17:34:12,296 - ebanking -INFO - UserName Provide
+2023-01-22 17:34:12,428 - ebanking -INFO - Password Provide
+2023-01-22 17:34:19,864 - ebanking -INFO - login click
+2023-01-22 17:34:20,478 - ebanking -INFO - Click new Customer link
+2023-01-22 17:34:27,177 - ebanking -INFO - Name Provide
+2023-01-22 17:34:27,251 - ebanking -INFO - Click Gander
+2023-01-22 17:34:27,585 - ebanking -INFO - DOB Provide
+2023-01-22 17:34:27,730 - ebanking -INFO - Address Provide
+2023-01-22 17:34:27,826 - ebanking -INFO - City Provide
+2023-01-22 17:34:27,918 - ebanking -INFO - State Provide
+2023-01-22 17:34:28,010 - ebanking -INFO - pincode Provide
+2023-01-22 17:34:28,104 - ebanking -INFO - MobileNumber Provide
+2023-01-22 17:34:28,230 - ebanking -INFO - EmailID Provide
+2023-01-22 17:34:28,313 - ebanking -INFO - Password Provide
+2023-01-22 17:34:28,431 - ebanking -INFO - Summit
+2023-01-22 17:34:31,446 - ebanking -INFO - validation start
+2023-01-22 17:37:58,123 - ebanking -INFO - UserName Provide
+2023-01-22 17:37:58,228 - ebanking -INFO - Password Provide
+2023-01-22 17:38:28,011 - ebanking -INFO - login click
+2023-01-22 17:38:28,636 - ebanking -INFO - Click new Customer link
+2023-01-22 17:38:34,483 - ebanking -INFO - Name Provide
+2023-01-22 17:38:34,555 - ebanking -INFO - Click Gander
+2023-01-22 17:38:34,918 - ebanking -INFO - DOB Provide
+2023-01-22 17:38:35,056 - ebanking -INFO - Address Provide
+2023-01-22 17:38:35,158 - ebanking -INFO - City Provide
+2023-01-22 17:38:35,252 - ebanking -INFO - State Provide
+2023-01-22 17:38:35,367 - ebanking -INFO - pincode Provide
+2023-01-22 17:38:35,481 - ebanking -INFO - MobileNumber Provide
+2023-01-22 17:38:35,607 - ebanking -INFO - EmailID Provide
+2023-01-22 17:38:35,693 - ebanking -INFO - Password Provide
+2023-01-22 17:38:45,154 - ebanking -INFO - Summit
+2023-01-22 17:38:48,157 - ebanking -INFO - validation start
+2023-01-22 17:38:48,180 - ebanking -INFO - New Customer Successfully Creater
+2023-01-22 17:40:31,611 - TC_LoginTest_001 -INFO - URL is opened
+2023-01-22 17:40:31,750 - TC_LoginTest_001 -INFO - UserName is Enter
+2023-01-22 17:40:31,834 - TC_LoginTest_001 -INFO - Password is Enter
+2023-01-22 17:40:38,988 - TC_LoginTest_001 -INFO - Press Login Button
+2023-01-22 17:40:39,022 - TC_LoginTest_001 -INFO - Login is Pass
+2023-01-22 17:41:08,219 - ebanking -INFO - userName enter
+2023-01-22 17:41:08,306 - ebanking -INFO - Password Enter
+2023-01-22 17:41:13,208 - ebanking -INFO - Click login
+2023-01-22 17:41:13,222 - ebanking -INFO - Login successfull
+2023-01-22 17:41:31,421 - ebanking -INFO - userName enter
+2023-01-22 17:41:31,518 - ebanking -INFO - Password Enter
+2023-01-22 17:41:34,624 - ebanking -INFO - Click login
+2023-01-22 17:42:05,757 - ebanking -INFO - userName enter
+2023-01-22 17:42:05,862 - ebanking -INFO - Password Enter
+2023-01-22 17:42:08,834 - ebanking -INFO - Click login
+2023-01-22 17:42:16,754 - ebanking -INFO - userName enter
+2023-01-22 17:42:16,855 - ebanking -INFO - Password Enter
+2023-01-22 17:42:32,626 - ebanking -INFO - Click login
+2023-01-22 17:42:32,633 - ebanking -INFO - Login successfull
+2023-01-22 17:43:31,779 - ebanking -INFO - UserName Provide
+2023-01-22 17:43:31,919 - ebanking -INFO - Password Provide
+2023-01-22 17:43:36,778 - ebanking -INFO - login click
+2023-01-22 17:43:37,512 - ebanking -INFO - Click new Customer link
+2023-01-22 17:43:48,784 - ebanking -INFO - Name Provide
+2023-01-22 17:43:48,875 - ebanking -INFO - Click Gander
+2023-01-22 17:43:49,116 - ebanking -INFO - DOB Provide
+2023-01-22 17:43:49,287 - ebanking -INFO - Address Provide
+2023-01-22 17:43:49,576 - ebanking -INFO - City Provide
+2023-01-22 17:43:49,699 - ebanking -INFO - State Provide
+2023-01-22 17:43:49,795 - ebanking -INFO - pincode Provide
+2023-01-22 17:43:49,892 - ebanking -INFO - MobileNumber Provide
+2023-01-22 17:43:50,015 - ebanking -INFO - EmailID Provide
+2023-01-22 17:43:50,100 - ebanking -INFO - Password Provide
+2023-01-22 17:43:53,325 - ebanking -INFO - Summit
+2023-01-22 17:43:56,328 - ebanking -INFO - validation start
+2023-01-22 17:43:56,352 - ebanking -INFO - New Customer Successfully Creater
+2023-01-22 17:52:25,045 - ebanking -INFO - userName enter
+2023-01-22 17:52:25,157 - ebanking -INFO - Password Enter
+2023-01-22 17:52:25,943 - ebanking -INFO - Click login
+2023-01-22 17:52:32,512 - ebanking -INFO - userName enter
+2023-01-22 17:52:32,610 - ebanking -INFO - Password Enter
+2023-01-22 17:52:44,571 - ebanking -INFO - Click login
+2023-01-23 17:55:51,206 - ebanking -INFO - browser is lunched
+2023-01-23 17:55:51,244 - TC_LoginTest_001 -INFO - URL is opened
+2023-01-23 17:55:51,527 - TC_LoginTest_001 -INFO - UserName is Enter
+2023-01-23 17:55:51,664 - TC_LoginTest_001 -INFO - Password is Enter
+2023-01-23 17:55:55,066 - TC_LoginTest_001 -INFO - Press Login Button
+2023-01-23 17:55:55,083 - TC_LoginTest_001 -INFO - Login is Pass
+2023-01-23 17:55:55,441 - ebanking -INFO - browser is closed
+2023-01-23 17:56:02,293 - ebanking -INFO - browser is lunched
+2023-01-23 17:56:03,854 - ebanking -INFO - userName enter
+2023-01-23 17:56:04,026 - ebanking -INFO - Password Enter
+2023-01-23 17:56:06,007 - ebanking -INFO - Click login
+2023-01-23 17:56:06,023 - ebanking -INFO - Login successfull
+2023-01-23 17:56:10,047 - ebanking -INFO - userName enter
+2023-01-23 17:56:10,153 - ebanking -INFO - Password Enter
+2023-01-23 17:56:10,693 - ebanking -INFO - Click login
+2023-01-23 17:56:13,481 - ebanking -INFO - userName enter
+2023-01-23 17:56:13,772 - ebanking -INFO - Password Enter
+2023-01-23 17:56:15,396 - ebanking -INFO - Click login
+2023-01-23 17:56:19,225 - ebanking -INFO - userName enter
+2023-01-23 17:56:19,338 - ebanking -INFO - Password Enter
+2023-01-23 17:56:22,390 - ebanking -INFO - Click login
+2023-01-23 17:56:22,395 - ebanking -INFO - Login successfull
+2023-01-23 17:56:25,643 - ebanking -INFO - browser is closed
+2023-01-23 17:56:46,006 - ebanking -INFO - browser is lunched
+2023-01-23 17:56:46,186 - ebanking -INFO - UserName Provide
+2023-01-23 17:56:46,363 - ebanking -INFO - Password Provide
+2023-01-23 17:56:49,548 - ebanking -INFO - login click
+2023-01-23 17:56:50,161 - ebanking -INFO - Click new Customer link
+2023-01-23 17:56:56,859 - ebanking -INFO - Name Provide
+2023-01-23 17:56:56,928 - ebanking -INFO - Click Gander
+2023-01-23 17:56:57,102 - ebanking -INFO - DOB Provide
+2023-01-23 17:56:57,239 - ebanking -INFO - Address Provide
+2023-01-23 17:56:57,464 - ebanking -INFO - City Provide
+2023-01-23 17:56:57,550 - ebanking -INFO - State Provide
+2023-01-23 17:56:57,636 - ebanking -INFO - pincode Provide
+2023-01-23 17:56:57,724 - ebanking -INFO - MobileNumber Provide
+2023-01-23 17:56:57,840 - ebanking -INFO - EmailID Provide
+2023-01-23 17:56:57,918 - ebanking -INFO - Password Provide
+2023-01-23 17:56:58,569 - ebanking -INFO - Summit
+2023-01-23 17:57:01,579 - ebanking -INFO - validation start
+2023-01-23 17:57:02,031 - ebanking -INFO - browser is closed
+2023-01-23 17:59:18,743 - ebanking -INFO - browser is lunched
+2023-01-23 17:59:18,797 - TC_LoginTest_001 -INFO - URL is opened
+2023-01-23 17:59:19,030 - TC_LoginTest_001 -INFO - UserName is Enter
+2023-01-23 17:59:19,144 - TC_LoginTest_001 -INFO - Password is Enter
+2023-01-23 17:59:22,755 - TC_LoginTest_001 -INFO - Press Login Button
+2023-01-23 17:59:22,770 - TC_LoginTest_001 -INFO - Login is Pass
+2023-01-23 17:59:23,110 - ebanking -INFO - browser is closed
+2023-01-23 17:59:30,976 - ebanking -INFO - browser is lunched
+2023-01-23 17:59:32,628 - ebanking -INFO - userName enter
+2023-01-23 17:59:32,720 - ebanking -INFO - Password Enter
+2023-01-23 17:59:34,870 - ebanking -INFO - Click login
+2023-01-23 17:59:34,885 - ebanking -INFO - Login successfull
+2023-01-23 17:59:38,257 - ebanking -INFO - userName enter
+2023-01-23 17:59:38,367 - ebanking -INFO - Password Enter
+2023-01-23 17:59:38,905 - ebanking -INFO - Click login
+2023-01-23 17:59:42,180 - ebanking -INFO - userName enter
+2023-01-23 17:59:42,522 - ebanking -INFO - Password Enter
+2023-01-23 17:59:43,831 - ebanking -INFO - Click login
+2023-01-23 17:59:47,181 - ebanking -INFO - userName enter
+2023-01-23 17:59:47,279 - ebanking -INFO - Password Enter
+2023-01-23 17:59:53,552 - ebanking -INFO - Click login
+2023-01-23 17:59:53,559 - ebanking -INFO - Login successfull
+2023-01-23 18:00:00,413 - ebanking -INFO - browser is closed
+2023-01-23 18:00:11,544 - ebanking -INFO - browser is lunched
+2023-01-23 18:00:11,874 - ebanking -INFO - UserName Provide
+2023-01-23 18:00:11,962 - ebanking -INFO - Password Provide
+2023-01-23 18:00:24,801 - ebanking -INFO - login click
+2023-01-23 18:00:25,454 - ebanking -INFO - Click new Customer link
+2023-01-23 18:00:31,370 - ebanking -INFO - Name Provide
+2023-01-23 18:00:31,436 - ebanking -INFO - Click Gander
+2023-01-23 18:00:31,601 - ebanking -INFO - DOB Provide
+2023-01-23 18:00:31,746 - ebanking -INFO - Address Provide
+2023-01-23 18:00:31,993 - ebanking -INFO - City Provide
+2023-01-23 18:00:32,085 - ebanking -INFO - State Provide
+2023-01-23 18:00:32,169 - ebanking -INFO - pincode Provide
+2023-01-23 18:00:32,256 - ebanking -INFO - MobileNumber Provide
+2023-01-23 18:00:32,401 - ebanking -INFO - EmailID Provide
+2023-01-23 18:00:32,482 - ebanking -INFO - Password Provide
+2023-01-23 18:00:37,358 - ebanking -INFO - Summit
+2023-01-23 18:00:40,360 - ebanking -INFO - validation start
+2023-01-23 18:00:40,383 - ebanking -INFO - New Customer Successfully Creater
+2023-01-23 18:00:40,948 - ebanking -INFO - browser is closed
+2023-01-23 18:19:10,014 - ebanking -INFO - browser is lunched
+2023-01-23 18:19:10,058 - TC_LoginTest_001 -INFO - URL is opened
+2023-01-23 18:19:10,287 - TC_LoginTest_001 -INFO - UserName is Enter
+2023-01-23 18:19:10,440 - TC_LoginTest_001 -INFO - Password is Enter
+2023-01-23 18:19:33,945 - TC_LoginTest_001 -INFO - Press Login Button
+2023-01-23 18:19:33,962 - TC_LoginTest_001 -INFO - Login is Pass
+2023-01-23 18:19:34,379 - ebanking -INFO - browser is closed
+2023-01-23 18:19:45,800 - ebanking -INFO - browser is lunched
+2023-01-23 18:19:47,749 - ebanking -INFO - userName enter
+2023-01-23 18:19:47,971 - ebanking -INFO - Password Enter
+2023-01-23 18:20:11,530 - ebanking -INFO - Click login
+2023-01-23 18:20:11,548 - ebanking -INFO - Login successfull
+2023-01-23 18:20:21,251 - ebanking -INFO - userName enter
+2023-01-23 18:20:21,356 - ebanking -INFO - Password Enter
+2023-01-23 18:20:23,225 - ebanking -INFO - Click login
+2023-01-23 18:20:27,346 - ebanking -INFO - userName enter
+2023-01-23 18:20:27,446 - ebanking -INFO - Password Enter
+2023-01-23 18:20:29,331 - ebanking -INFO - Click login
+2023-01-23 18:20:37,897 - ebanking -INFO - userName enter
+2023-01-23 18:20:37,994 - ebanking -INFO - Password Enter
+2023-01-23 18:20:47,669 - ebanking -INFO - Click login
+2023-01-23 18:20:47,675 - ebanking -INFO - Login successfull
+2023-01-23 18:20:57,228 - ebanking -INFO - browser is closed
+2023-01-23 18:21:06,088 - ebanking -INFO - browser is lunched
+2023-01-23 18:21:06,246 - ebanking -INFO - UserName Provide
+2023-01-23 18:21:06,357 - ebanking -INFO - Password Provide
+2023-01-23 18:21:09,944 - ebanking -INFO - login click
+2023-01-23 18:21:10,545 - ebanking -INFO - Click new Customer link
+2023-01-23 18:21:16,360 - ebanking -INFO - Name Provide
+2023-01-23 18:21:16,908 - ebanking -INFO - Click Gander
+2023-01-23 18:21:17,103 - ebanking -INFO - DOB Provide
+2023-01-23 18:21:17,273 - ebanking -INFO - Address Provide
+2023-01-23 18:21:17,386 - ebanking -INFO - City Provide
+2023-01-23 18:21:17,492 - ebanking -INFO - State Provide
+2023-01-23 18:21:17,597 - ebanking -INFO - pincode Provide
+2023-01-23 18:21:17,706 - ebanking -INFO - MobileNumber Provide
+2023-01-23 18:21:17,852 - ebanking -INFO - EmailID Provide
+2023-01-23 18:21:17,952 - ebanking -INFO - Password Provide
+2023-01-23 18:21:21,522 - ebanking -INFO - Summit
+2023-01-23 18:21:24,524 - ebanking -INFO - validation start
+2023-01-23 18:21:24,547 - ebanking -INFO - New Customer Successfully Creater
+2023-01-23 18:21:24,914 - ebanking -INFO - browser is closed
+2023-01-23 18:37:36,128 - ebanking -INFO - browser is lunched
+2023-01-23 18:37:36,171 - TC_LoginTest_001 -INFO - URL is opened
+2023-01-23 18:37:36,394 - TC_LoginTest_001 -INFO - UserName is Enter
+2023-01-23 18:37:36,512 - TC_LoginTest_001 -INFO - Password is Enter
+2023-01-23 18:37:49,568 - TC_LoginTest_001 -INFO - Press Login Button
+2023-01-23 18:37:49,582 - TC_LoginTest_001 -INFO - Login is Pass
+2023-01-23 18:37:49,955 - ebanking -INFO - browser is closed
+2023-01-23 18:38:05,443 - ebanking -INFO - browser is lunched
+2023-01-23 18:38:07,140 - ebanking -INFO - userName enter
+2023-01-23 18:38:07,245 - ebanking -INFO - Password Enter
+2023-01-23 18:38:14,026 - ebanking -INFO - Click login
+2023-01-23 18:38:14,048 - ebanking -INFO - Login successfull
+2023-01-23 18:38:18,985 - ebanking -INFO - userName enter
+2023-01-23 18:38:19,086 - ebanking -INFO - Password Enter
+2023-01-23 18:38:25,690 - ebanking -INFO - Click login
+2023-01-23 18:38:32,044 - ebanking -INFO - userName enter
+2023-01-23 18:38:32,304 - ebanking -INFO - Password Enter
+2023-01-23 18:38:34,150 - ebanking -INFO - Click login
+2023-01-23 18:38:37,288 - ebanking -INFO - userName enter
+2023-01-23 18:38:37,384 - ebanking -INFO - Password Enter
+2023-01-23 18:38:42,472 - ebanking -INFO - Click login
+2023-01-23 18:38:42,479 - ebanking -INFO - Login successfull
+2023-01-23 18:38:48,489 - ebanking -INFO - browser is closed
+2023-01-23 18:39:07,559 - ebanking -INFO - browser is lunched
+2023-01-23 18:39:07,692 - ebanking -INFO - UserName Provide
+2023-01-23 18:39:07,801 - ebanking -INFO - Password Provide
+2023-01-23 18:39:19,807 - ebanking -INFO - login click
+2023-01-23 18:39:20,416 - ebanking -INFO - Click new Customer link
+2023-01-23 18:39:27,744 - ebanking -INFO - Name Provide
+2023-01-23 18:39:27,819 - ebanking -INFO - Click Gander
+2023-01-23 18:39:28,177 - ebanking -INFO - DOB Provide
+2023-01-23 18:39:28,344 - ebanking -INFO - Address Provide
+2023-01-23 18:39:28,454 - ebanking -INFO - City Provide
+2023-01-23 18:39:28,553 - ebanking -INFO - State Provide
+2023-01-23 18:39:28,653 - ebanking -INFO - pincode Provide
+2023-01-23 18:39:28,755 - ebanking -INFO - MobileNumber Provide
+2023-01-23 18:39:28,883 - ebanking -INFO - EmailID Provide
+2023-01-23 18:39:28,977 - ebanking -INFO - Password Provide
+2023-01-23 18:39:32,541 - ebanking -INFO - Summit
+2023-01-23 18:39:35,542 - ebanking -INFO - validation start
+2023-01-23 18:39:35,569 - ebanking -INFO - New Customer Successfully Creater
+2023-01-23 18:39:35,971 - ebanking -INFO - browser is closed
+2023-01-23 19:29:40,219 - ebanking -INFO - browser is lunched
+2023-01-23 19:29:40,242 - TC_LoginTest_001 -INFO - URL is opened
+2023-01-23 19:29:40,400 - TC_LoginTest_001 -INFO - UserName is Enter
+2023-01-23 19:29:40,460 - TC_LoginTest_001 -INFO - Password is Enter
+2023-01-23 19:29:43,089 - TC_LoginTest_001 -INFO - Press Login Button
+2023-01-23 19:29:43,097 - TC_LoginTest_001 -INFO - Login is Pass
+2023-01-23 19:29:43,292 - ebanking -INFO - browser is closed
+2023-01-23 19:29:48,981 - ebanking -INFO - browser is lunched
+2023-01-23 19:29:50,061 - ebanking -INFO - userName enter
+2023-01-23 19:29:50,122 - ebanking -INFO - Password Enter
+2023-01-23 19:29:53,062 - ebanking -INFO - Click login
+2023-01-23 19:29:53,090 - ebanking -INFO - Login successfull
+2023-01-23 19:29:56,571 - ebanking -INFO - userName enter
+2023-01-23 19:29:56,628 - ebanking -INFO - Password Enter
+2023-01-23 19:29:57,136 - ebanking -INFO - Click login
+2023-01-23 19:29:58,576 - ebanking -INFO - userName enter
+2023-01-23 19:29:58,795 - ebanking -INFO - Password Enter
+2023-01-23 19:30:00,019 - ebanking -INFO - Click login
+2023-01-23 19:30:02,238 - ebanking -INFO - userName enter
+2023-01-23 19:30:02,294 - ebanking -INFO - Password Enter
+2023-01-23 19:30:04,993 - ebanking -INFO - Click login
+2023-01-23 19:30:04,997 - ebanking -INFO - Login successfull
+2023-01-23 19:31:02,238 - ebanking -INFO - browser is closed
+2023-01-23 19:31:07,260 - ebanking -INFO - browser is lunched
+2023-01-23 19:31:07,359 - ebanking -INFO - UserName Provide
+2023-01-23 19:31:07,421 - ebanking -INFO - Password Provide
+2023-01-23 19:31:09,062 - ebanking -INFO - login click
+2023-01-23 19:31:09,656 - ebanking -INFO - Click new Customer link
+2023-01-26 10:01:18,776 - ebanking -INFO - browser is lunched
+2023-01-26 10:01:18,812 - TC_LoginTest_001 -INFO - URL is opened
+2023-01-26 10:01:18,977 - TC_LoginTest_001 -INFO - UserName is Enter
+2023-01-26 10:01:19,073 - TC_LoginTest_001 -INFO - Password is Enter
+2023-01-26 10:01:23,955 - TC_LoginTest_001 -INFO - Press Login Button
+2023-01-26 10:01:23,991 - TC_LoginTest_001 -INFO - Login is Pass
+2023-01-26 10:01:24,262 - ebanking -INFO - browser is closed
+2023-01-26 10:01:51,975 - ebanking -INFO - browser is lunched
+2023-01-26 10:01:53,766 - ebanking -INFO - userName enter
+2023-01-26 10:01:53,847 - ebanking -INFO - Password Enter
+2023-01-26 10:02:00,265 - ebanking -INFO - Click login
+2023-01-26 10:02:00,286 - ebanking -INFO - Login successfull
+2023-01-26 10:02:05,689 - ebanking -INFO - userName enter
+2023-01-26 10:02:05,770 - ebanking -INFO - Password Enter
+2023-01-26 10:02:08,427 - ebanking -INFO - Click login
+2023-01-26 10:02:14,182 - ebanking -INFO - userName enter
+2023-01-26 10:02:14,275 - ebanking -INFO - Password Enter
+2023-01-26 10:02:16,165 - ebanking -INFO - Click login
+2023-01-26 10:02:18,653 - ebanking -INFO - userName enter
+2023-01-26 10:02:18,735 - ebanking -INFO - Password Enter
+2023-01-26 10:02:21,158 - ebanking -INFO - Click login
+2023-01-26 10:02:21,188 - ebanking -INFO - Login successfull
+2023-01-26 10:02:29,900 - ebanking -INFO - browser is closed
+2023-01-26 10:02:39,565 - ebanking -INFO - browser is lunched
+2023-01-26 10:02:39,677 - ebanking -INFO - UserName Provide
+2023-01-26 10:02:39,784 - ebanking -INFO - Password Provide
+2023-01-26 10:02:43,523 - ebanking -INFO - login click
+2023-01-26 10:02:44,157 - ebanking -INFO - Click new Customer link
+2023-01-26 10:07:46,906 - ebanking -INFO - browser is lunched
+2023-01-26 10:07:46,963 - TC_LoginTest_001 -INFO - URL is opened
+2023-01-26 10:07:47,239 - TC_LoginTest_001 -INFO - UserName is Enter
+2023-01-26 10:07:47,358 - TC_LoginTest_001 -INFO - Password is Enter
+2023-01-26 10:07:49,621 - TC_LoginTest_001 -INFO - Press Login Button
+2023-01-26 10:07:49,638 - TC_LoginTest_001 -INFO - Login is Pass
+2023-01-26 10:07:49,963 - ebanking -INFO - browser is closed
+2023-01-26 10:08:02,016 - ebanking -INFO - browser is lunched
+2023-01-26 10:08:03,849 - ebanking -INFO - userName enter
+2023-01-26 10:08:03,950 - ebanking -INFO - Password Enter
+2023-01-26 10:08:06,431 - ebanking -INFO - Click login
+2023-01-26 10:08:06,448 - ebanking -INFO - Login successfull
+2023-01-26 10:08:09,579 - ebanking -INFO - userName enter
+2023-01-26 10:08:09,688 - ebanking -INFO - Password Enter
+2023-01-26 10:08:10,533 - ebanking -INFO - Click login
+2023-01-26 10:08:12,090 - ebanking -INFO - userName enter
+2023-01-26 10:08:12,887 - ebanking -INFO - Password Enter
+2023-01-26 10:08:13,512 - ebanking -INFO - Click login
+2023-01-26 10:08:16,476 - ebanking -INFO - userName enter
+2023-01-26 10:08:16,794 - ebanking -INFO - Password Enter
+2023-01-26 10:08:21,457 - ebanking -INFO - Click login
+2023-01-26 10:08:21,468 - ebanking -INFO - Login successfull
+2023-01-26 10:08:28,174 - ebanking -INFO - browser is closed
+2023-01-26 10:08:37,699 - ebanking -INFO - browser is lunched
+2023-01-26 10:08:37,861 - ebanking -INFO - UserName Provide
+2023-01-26 10:08:37,974 - ebanking -INFO - Password Provide
+2023-01-26 10:08:40,692 - ebanking -INFO - login click
+2023-01-26 10:08:41,311 - ebanking -INFO - Click new Customer link
+2023-01-26 10:16:04,026 - ebanking -INFO - browser is lunched
+2023-01-26 10:16:04,075 - TC_LoginTest_001 -INFO - URL is opened
+2023-01-26 10:16:04,291 - TC_LoginTest_001 -INFO - UserName is Enter
+2023-01-26 10:16:04,394 - TC_LoginTest_001 -INFO - Password is Enter
+2023-01-26 10:16:09,119 - TC_LoginTest_001 -INFO - Press Login Button
+2023-01-26 10:16:09,135 - TC_LoginTest_001 -INFO - Login is Pass
+2023-01-26 10:16:09,432 - ebanking -INFO - browser is closed
+2023-01-26 10:16:23,314 - ebanking -INFO - browser is lunched
+2023-01-26 10:16:24,943 - ebanking -INFO - userName enter
+2023-01-26 10:16:25,034 - ebanking -INFO - Password Enter
+2023-01-26 10:38:29,541 - ebanking -INFO - browser is lunched
+2023-01-26 10:38:29,692 - ebanking -INFO - UserName Provide
+2023-01-26 10:38:29,784 - ebanking -INFO - Password Provide
+2023-01-26 10:38:35,789 - ebanking -INFO - login click

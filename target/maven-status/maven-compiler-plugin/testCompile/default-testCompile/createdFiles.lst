@@ -1,0 +1,10 @@
+com\interBanking_testcases\TC_NewCustomerTest_003.class
+com\interBanking_Utilitues\XLUtils.class
+com\interBanking\pageObjects_POM\NewCustomer_page.class
+com\interBanking_testcases\BaseClass.class
+com\interBanking_Utilitues\Readfile.class
+com\interBanking_testcases\TC_LoginTest_002.class
+com\interBanking_Utilitues\Reporting.class
+com\interBanking_testcases\BaseClass1.class
+com\interBanking_testcases\TC_LoginTest_001.class
+com\interBanking\pageObjects_POM\Login_page.class
