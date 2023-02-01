@@ -1,45 +1,101 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 307.889 s <<< FAILURE! - in TestSuite
-com.interBanking_testcases.TC_LoginTest_002.LoginDDT[mngr471656, vabjjkjjn](2)  Time elapsed: 3.437 s  <<< FAILURE!
+Tests run: 20, Failures: 11, Errors: 0, Skipped: 4, Time elapsed: 673.409 s <<< FAILURE! - in TestSuite
+com.interBanking_testcases.TC_LoginTest_002.LoginDDT[mngr471699, vabypuq](1)  Time elapsed: 2.741 s  <<< FAILURE!
 java.lang.AssertionError
 	at com.interBanking_testcases.TC_LoginTest_002.LoginDDT(TC_LoginTest_002.java:29)
 
-com.interBanking_testcases.TC_LoginTest_002.LoginDDT[mngr471698, vamknpuq](3)  Time elapsed: 9.587 s  <<< FAILURE!
+com.interBanking_testcases.TC_LoginTest_002.LoginDDT[mngr471656, vabjjkjjn](2)  Time elapsed: 2.668 s  <<< FAILURE!
 java.lang.AssertionError
 	at com.interBanking_testcases.TC_LoginTest_002.LoginDDT(TC_LoginTest_002.java:29)
 
-com.interBanking_testcases.TC_NewCustomerTest_003.NewCustomer  Time elapsed: 189.424 s  <<< FAILURE!
-org.openqa.selenium.TimeoutException: 
-java.util.concurrent.TimeoutException
+com.interBanking_testcases.TC_LoginTest_002.LoginDDT[mngr471698, vamknpuq](3)  Time elapsed: 2.683 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.interBanking_testcases.TC_LoginTest_002.LoginDDT(TC_LoginTest_002.java:29)
+
+com.interBanking_testcases.TC_LoginTest_002.LoginDDT[mngr471699, vabypuq](4)  Time elapsed: 3.053 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.interBanking_testcases.TC_LoginTest_002.LoginDDT(TC_LoginTest_002.java:29)
+
+com.interBanking_testcases.TC_EditeCustomerID_004.EditeCustomer  Time elapsed: 14.535 s  <<< FAILURE!
+org.openqa.selenium.NoAlertPresentException: 
+no such alert
+  (Session info: chrome=109.0.5414.120)
 Build info: version: '4.7.0', revision: '0a5b49d16f'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [b013ca76125675a14ac8bdf42885f0e1, findElement {using=xpath, value=//*[@id="dismiss-button"]/div/svg}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Program Files (x86)\scop...}, goog:chromeOptions: {debuggerAddress: localhost:56271}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56271/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b013ca76125675a14ac8bdf42885f0e1
-	at com.interBanking_testcases.TC_NewCustomerTest_003.NewCustomer(TC_NewCustomerTest_003.java:28)
-Caused by: java.util.concurrent.TimeoutException
-	at com.interBanking_testcases.TC_NewCustomerTest_003.NewCustomer(TC_NewCustomerTest_003.java:28)
+Command: [e986e5a9be6d7088bd402b4d47d9ecfb, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\manir\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58406}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58406/devtoo..., se:cdpVersion: 109.0.5414.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e986e5a9be6d7088bd402b4d47d9ecfb
+	at com.interBanking_testcases.TC_EditeCustomerID_004.EditeCustomer(TC_EditeCustomerID_004.java:35)
 
-com.interBanking_testcases.TC_NewCustomerTest_003.tearDown  Time elapsed: 214.487 s  <<< FAILURE!
+com.interBanking_testcases.TC_WithdrawalTest_010.Withdrawals  Time elapsed: 34.184 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to find element with locator By.name: accountno
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.7.0', revision: '0a5b49d16f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: driver.version: RemoteWebDriver
+	at com.interBanking_testcases.TC_WithdrawalTest_010.Withdrawals(TC_WithdrawalTest_010.java:22)
+
+com.interBanking_testcases.TC_ChangePasswordTest_012.setup[chrome](0)  Time elapsed: 77.881 s  <<< FAILURE!
 org.openqa.selenium.WebDriverException: 
-Timed out waiting for driver server to stop.
+unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: chrome=109.0.5414.120)
 Build info: version: '4.7.0', revision: '0a5b49d16f'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [b013ca76125675a14ac8bdf42885f0e1, quit {}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Program Files (x86)\scop...}, goog:chromeOptions: {debuggerAddress: localhost:56271}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56271/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b013ca76125675a14ac8bdf42885f0e1
-Caused by: java.util.concurrent.ExecutionException: 
-org.openqa.selenium.TimeoutException: Process timed out after waiting for 20000 ms.
+Command: [5c1c6b14e53f8a8e9c51871cf4d4816c, get {url=https://demo.guru99.com/v4/index.php}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\manir\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58828}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58828/devtoo..., se:cdpVersion: 109.0.5414.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c1c6b14e53f8a8e9c51871cf4d4816c
+
+com.interBanking_testcases.TC_BalanceEqueryTest_013.BalanceEquery  Time elapsed: 60.317 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to find element with locator By.name: uid
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: '4.7.0', revision: '0a5b49d16f'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
-Driver info: driver.version: unknown
-Caused by: org.openqa.selenium.TimeoutException: 
-Process timed out after waiting for 20000 ms.
+Driver info: driver.version: RemoteWebDriver
+	at com.interBanking_testcases.TC_BalanceEqueryTest_013.BalanceEquery(TC_BalanceEqueryTest_013.java:13)
+
+com.interBanking_testcases.TC_MiniStatemenetTest_014.setup[chrome](0)  Time elapsed: 64.36 s  <<< FAILURE!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Error communicating with the remote browser. It may have died.
 Build info: version: '4.7.0', revision: '0a5b49d16f'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
-Driver info: driver.version: unknown
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b441f3b0322ba65ee3781018481530a0, get {url=https://demo.guru99.com/v4/index.php}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\manir\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58888}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58888/devtoo..., se:cdpVersion: 109.0.5414.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b441f3b0322ba65ee3781018481530a0
+Caused by: java.io.UncheckedIOException: java.io.IOException: An existing connection was forcibly closed by the remote host
+Caused by: java.io.IOException: An existing connection was forcibly closed by the remote host
+
+com.interBanking_testcases.TC_CustomisedStatementTest_015.CustomisedStatement  Time elapsed: 294.062 s  <<< FAILURE!
+org.openqa.selenium.remote.UnreachableBrowserException: 
+Error communicating with the remote browser. It may have died.
+Build info: version: '4.7.0', revision: '0a5b49d16f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9f0aae3c335fc28dc3a6e85df4e622a8, findElement {using=name, value=uid}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\manir\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58906}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58906/devtoo..., se:cdpVersion: 109.0.5414.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f0aae3c335fc28dc3a6e85df4e622a8
+	at com.interBanking_testcases.TC_CustomisedStatementTest_015.CustomisedStatement(TC_CustomisedStatementTest_015.java:13)
+Caused by: java.lang.RuntimeException: NettyHttpHandler request execution error
+	at com.interBanking_testcases.TC_CustomisedStatementTest_015.CustomisedStatement(TC_CustomisedStatementTest_015.java:13)
+Caused by: java.util.concurrent.ExecutionException: java.util.concurrent.TimeoutException: Request timeout to localhost/127.0.0.1:35073 after 180000 ms
+	at com.interBanking_testcases.TC_CustomisedStatementTest_015.CustomisedStatement(TC_CustomisedStatementTest_015.java:13)
+Caused by: java.util.concurrent.TimeoutException: Request timeout to localhost/127.0.0.1:35073 after 180000 ms
+
+com.interBanking_testcases.TC_LogoutTest_016.LogoutTest  Time elapsed: 18.229 s  <<< FAILURE!
+org.openqa.selenium.NoAlertPresentException: 
+no such alert
+  (Session info: chrome=109.0.5414.120)
+Build info: version: '4.7.0', revision: '0a5b49d16f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c9ef9dea6e6e3f128dd7c8bb5707f27c, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\manir\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58963}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58963/devtoo..., se:cdpVersion: 109.0.5414.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c9ef9dea6e6e3f128dd7c8bb5707f27c
+	at com.interBanking_testcases.TC_LogoutTest_016.LogoutTest(TC_LogoutTest_016.java:22)
 

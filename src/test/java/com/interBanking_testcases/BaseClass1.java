@@ -59,7 +59,7 @@ public class BaseClass1 {
 
 	}
 
-	//@AfterClass
+	@AfterClass
 	public void tearDown() {
 		
 		driver.quit();

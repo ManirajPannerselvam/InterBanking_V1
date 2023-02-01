@@ -8,15 +8,22 @@
 
 		<parameter name="browser" value="chrome"></parameter>
 		<classes>
-		<!--  <class name="com.interBanking_testcases.TC_LoginTest_001" /> 
+		 <class name="com.interBanking_testcases.TC_LoginTest_001" /> 
 		<class name="com.interBanking_testcases.TC_LoginTest_002" /> 
 			<class name="com.interBanking_testcases.TC_NewCustomerTest_003" />  
 			<class name="com.interBanking_testcases.TC_EditeCustomerID_004" /> 
-			<class name="com.interBanking_testcases.TC_NewAccountTest_006" /> -->
-			<class name="com.interBanking_testcases.TC_EditAccountTest_007" /> 
+			<class name="com.interBanking_testcases.TC_NewAccountTest_006" /> 
+			<class name="com.interBanking_testcases.TC_EditAccountTest_007" />  
+			<class name="com.interBanking_testcases.TC_DepositTest_009" />
+			<class name="com.interBanking_testcases.TC_WithdrawalTest_010" /> 
+			<class name="com.interBanking_testcases.TC_ChangePasswordTest_012" /> 
+     		<class name="com.interBanking_testcases.TC_BalanceEqueryTest_013" /> 
+     		<class name="com.interBanking_testcases.TC_MiniStatemenetTest_014" />  
+     		<class name="com.interBanking_testcases.TC_CustomisedStatementTest_015" /> 
+     		<class name="com.interBanking_testcases.TC_LogoutTest_016" />
+
+
 
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
-
-
