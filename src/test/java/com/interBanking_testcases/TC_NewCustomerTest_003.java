@@ -4,6 +4,8 @@ import java.io.IOException;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.junit.Assert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
 import com.interBanking.pageObjects_POM.Login_page;
@@ -21,14 +23,14 @@ public class TC_NewCustomerTest_003 extends BaseClass1 {
 		login.summit();
 		logger.info("login click");
 
-		Thread.sleep(5000);
+		Thread.sleep(2000);
 		
 
-		NewCustomer_page cust = new NewCustomer_page(driver);
-		cust.setAdd();
-		Thread.sleep(3000);
+	NewCustomer_page cust = new NewCustomer_page(driver);
 		cust.setNewcustomerlink();
 		logger.info("Click new Customer link");
+				
+		Thread.sleep(3000);
 
 		cust.setName("Mani");
 		logger.info("Name Provide");
@@ -68,6 +70,7 @@ public class TC_NewCustomerTest_003 extends BaseClass1 {
 		logger.info("validation start");
 
 		boolean res = driver.getPageSource().contains("Customer Registered Successfully!!!");
+		
 		if (res == true) {
 			Assert.assertTrue(true);
 			logger.info("New Customer Successfully Creater");

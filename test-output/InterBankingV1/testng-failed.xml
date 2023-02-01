@@ -7,12 +7,12 @@
   <test thread-count="5" name="BankApp Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.interBanking_testcases.TC_LoginTest_002">
+      <class name="com.interBanking_testcases.TC_EditAccountTest_007">
         <methods>
-          <include name="LoginDDT" invocation-numbers="1 2"/>
+          <include name="EditAccount"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- com.interBanking_testcases.TC_LoginTest_002 -->
+      </class> <!-- com.interBanking_testcases.TC_EditAccountTest_007 -->
     </classes>
   </test> <!-- BankApp Test(failed) -->
 </suite> <!-- Failed suite [InterBankingV1] -->

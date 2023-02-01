@@ -37,10 +37,17 @@ WebElement Emailid;
 WebElement Password;
 @FindBy(how=How.NAME,using="sub")
 WebElement Sub;
-@FindBy(how=How.XPATH,using="//*[@id=\"dismiss-button\"]/div/svg")
+@FindBy(how=How.XPATH,using="//iframe[@nam='google_ads_iframe_/24132379/INTERSTITIAL_DemoGuru99_0']")
+WebElement frame;
+@FindBy(how=How.XPATH,using="//*[@id=\"dismiss-button\"]/div")
 WebElement add;
+@FindBy(how=How.XPATH,using="/html/body/table/tbody/tr/td/table/tbody/tr[3]/td")
+WebElement cusid;
 
 
+public void setCusid(WebElement cusid) {
+	this.cusid = cusid;
+}
 public void setAdd() {
 	add.click();
 }
@@ -71,6 +78,7 @@ public void setPinno(String pinno) {
 	Pinno.sendKeys(pinno);
 }
 public void setTelephoneno(String telephoneno) {
+	Telephoneno.clear();
 	Telephoneno.sendKeys(telephoneno);
 }	
 public void setEmailid(String emailid) {
@@ -82,6 +90,5 @@ public void setPassword(String password) {
 public void setSub() {
 	Sub.click();
 }
-
 
 }

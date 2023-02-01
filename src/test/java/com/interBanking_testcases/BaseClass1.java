@@ -16,6 +16,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
@@ -58,7 +59,7 @@ public class BaseClass1 {
 
 	}
 
-	@AfterClass
+	//@AfterClass
 	public void tearDown() {
 		
 		driver.quit();
@@ -86,6 +87,47 @@ public class BaseClass1 {
 			driver.switchTo().defaultContent();
 		}
 			
+	}
+	public static void select(String types, WebElement option, String text,int index) {
+		switch (types) {
+		case "index":
+			Select s = new Select(option);
+			s.selectByIndex(index);
+			break;
+			
+		case "value":
+			Select s1 = new Select(option);
+			s1.selectByValue(text);
+			break;
+		case "visible":
+			Select sv = new Select(option);
+			sv.selectByVisibleText(text);
+			break;
+		case "multiple":
+			Select sm = new Select(option);
+			sm.isMultiple();
+			break;
+		case "option":
+			Select so = new Select(option);
+			so.getOptions();
+			break;
+		case "alloption":
+			Select sa = new Select(option);
+			sa.getAllSelectedOptions();
+			break;
+		case "Firstselect":
+			Select sf = new Select(option);
+			sf.getFirstSelectedOption();
+			break;
+		case "deselectvalue":
+			Select sd = new Select(option);
+			sd.deselectByValue(text);
+			break;
+		case "deselectvisible":
+			Select sdd = new Select(option);
+			sdd.deselectByVisibleText(text);
+			break;
+		}
 	}
 
 }

@@ -10,7 +10,7 @@
       <class name="com.interBanking_testcases.TC_LoginTest_002">
         <methods>
           <include name="tearDown"/>
-          <include name="LoginDDT" invocation-numbers="0 1 2 3"/>
+          <include name="LoginDDT" invocation-numbers="1 2"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.interBanking_testcases.TC_LoginTest_002 -->

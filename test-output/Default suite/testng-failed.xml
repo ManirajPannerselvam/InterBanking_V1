@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.interBanking_testcases.TC_LoginTest_001">
+      <class name="com.interBanking_testcases.TC_NewCustomerTest_003">
         <methods>
-          <include name="tearDown"/>
-          <include name="loginTest"/>
           <include name="setup"/>
+          <include name="NewCustomer"/>
         </methods>
-      </class> <!-- com.interBanking_testcases.TC_LoginTest_001 -->
+      </class> <!-- com.interBanking_testcases.TC_NewCustomerTest_003 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

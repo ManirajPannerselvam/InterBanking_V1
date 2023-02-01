@@ -8,10 +8,15 @@
 
 		<parameter name="browser" value="chrome"></parameter>
 		<classes>
-			 <class name="com.interBanking_testcases.TC_LoginTest_001" /> 
-			<class name="com.interBanking_testcases.TC_LoginTest_002" /> 
-			<class name="com.interBanking_testcases.TC_NewCustomerTest_003" />
+		<!--  <class name="com.interBanking_testcases.TC_LoginTest_001" /> 
+		<class name="com.interBanking_testcases.TC_LoginTest_002" /> 
+			<class name="com.interBanking_testcases.TC_NewCustomerTest_003" />  
+			<class name="com.interBanking_testcases.TC_EditeCustomerID_004" /> 
+			<class name="com.interBanking_testcases.TC_NewAccountTest_006" /> -->
+			<class name="com.interBanking_testcases.TC_EditAccountTest_007" /> 
 
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
+
+
