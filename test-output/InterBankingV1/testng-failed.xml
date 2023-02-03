@@ -7,13 +7,6 @@
   <test thread-count="5" name="BankApp Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.interBanking_testcases.TC_BalanceEqueryTest_013">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="BalanceEquery"/>
-        </methods>
-      </class> <!-- com.interBanking_testcases.TC_BalanceEqueryTest_013 -->
       <class name="com.interBanking_testcases.TC_EditeCustomerID_004">
         <methods>
           <include name="EditeCustomer"/>
@@ -24,17 +17,10 @@
       <class name="com.interBanking_testcases.TC_LoginTest_002">
         <methods>
           <include name="tearDown"/>
-          <include name="LoginDDT" invocation-numbers="0 1 2 3"/>
+          <include name="LoginDDT" invocation-numbers="0 1 2"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.interBanking_testcases.TC_LoginTest_002 -->
-      <class name="com.interBanking_testcases.TC_CustomisedStatementTest_015">
-        <methods>
-          <include name="CustomisedStatement"/>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.interBanking_testcases.TC_CustomisedStatementTest_015 -->
       <class name="com.interBanking_testcases.TC_LogoutTest_016">
         <methods>
           <include name="LogoutTest"/>
@@ -51,4 +37,37 @@
       </class> <!-- com.interBanking_testcases.TC_ChangePasswordTest_012 -->
     </classes>
   </test> <!-- BankApp Test(failed) -->
+  <test thread-count="5" name="BankApp Test1(failed)">
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="com.interBanking_testcases.TC_EditeCustomerID_004">
+        <methods>
+          <include name="EditeCustomer"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.interBanking_testcases.TC_EditeCustomerID_004 -->
+      <class name="com.interBanking_testcases.TC_LoginTest_002">
+        <methods>
+          <include name="tearDown"/>
+          <include name="LoginDDT" invocation-numbers="0 1 2"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.interBanking_testcases.TC_LoginTest_002 -->
+      <class name="com.interBanking_testcases.TC_LogoutTest_016">
+        <methods>
+          <include name="LogoutTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.interBanking_testcases.TC_LogoutTest_016 -->
+      <class name="com.interBanking_testcases.TC_ChangePasswordTest_012">
+        <methods>
+          <include name="tearDown"/>
+          <include name="ChangePassword"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.interBanking_testcases.TC_ChangePasswordTest_012 -->
+    </classes>
+  </test> <!-- BankApp Test1(failed) -->
 </suite> <!-- Failed suite [InterBankingV1] -->

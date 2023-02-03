@@ -1211,3 +1211,556 @@
 2023-02-01 11:36:16,550 [main] INFO ebanking - Summit button is click
 2023-02-01 11:36:28,380 [main] INFO ebanking - Logout Successfully
 2023-02-01 11:36:34,932 [main] INFO ebanking - browser is closed
+2023-02-03 08:26:07,071 [main] INFO ebanking - browser is lunched
+2023-02-03 08:26:07,141 [main] INFO TC_LoginTest_001 - URL is opened
+2023-02-03 08:26:07,393 [main] INFO TC_LoginTest_001 - UserName is Enter
+2023-02-03 08:26:07,490 [main] INFO TC_LoginTest_001 - Password is Enter
+2023-02-03 08:26:10,200 [main] INFO TC_LoginTest_001 - Press Login Button
+2023-02-03 08:26:10,220 [main] INFO TC_LoginTest_001 - Login is Pass
+2023-02-03 08:26:10,527 [main] INFO ebanking - browser is closed
+2023-02-03 08:26:26,702 [main] INFO ebanking - browser is lunched
+2023-02-03 08:26:28,288 [main] INFO ebanking - userName enter
+2023-02-03 08:26:28,382 [main] INFO ebanking - Password Enter
+2023-02-03 08:26:29,103 [main] INFO ebanking - Click login
+2023-02-03 08:26:32,493 [main] INFO ebanking - userName enter
+2023-02-03 08:26:32,579 [main] INFO ebanking - Password Enter
+2023-02-03 08:26:34,148 [main] INFO ebanking - Click login
+2023-02-03 08:26:36,091 [main] INFO ebanking - userName enter
+2023-02-03 08:26:36,427 [main] INFO ebanking - Password Enter
+2023-02-03 08:26:37,646 [main] INFO ebanking - Click login
+2023-02-03 08:26:40,079 [main] INFO ebanking - userName enter
+2023-02-03 08:26:40,191 [main] INFO ebanking - Password Enter
+2023-02-03 08:26:40,899 [main] INFO ebanking - Click login
+2023-02-03 08:26:47,372 [main] INFO ebanking - browser is closed
+2023-02-03 08:27:01,217 [main] INFO ebanking - browser is lunched
+2023-02-03 08:27:01,388 [main] INFO ebanking - UserName Provide
+2023-02-03 08:27:01,512 [main] INFO ebanking - Password Provide
+2023-02-03 08:27:26,761 [main] INFO ebanking - login click
+2023-02-03 08:27:28,898 [main] INFO ebanking - Click new Customer link
+2023-02-03 08:27:37,987 [main] INFO ebanking - Name Provide
+2023-02-03 08:27:38,063 [main] INFO ebanking - Click Gander
+2023-02-03 08:27:38,270 [main] INFO ebanking - DOB Provide
+2023-02-03 08:27:38,534 [main] INFO ebanking - Address Provide
+2023-02-03 08:27:38,663 [main] INFO ebanking - City Provide
+2023-02-03 08:27:38,787 [main] INFO ebanking - State Provide
+2023-02-03 08:27:38,895 [main] INFO ebanking - pincode Provide
+2023-02-03 08:27:39,057 [main] INFO ebanking - MobileNumber Provide
+2023-02-03 08:27:39,210 [main] INFO ebanking - EmailID Provide
+2023-02-03 08:27:39,316 [main] INFO ebanking - Password Provide
+2023-02-03 08:27:42,222 [main] INFO ebanking - Summit
+2023-02-03 08:27:45,224 [main] INFO ebanking - validation start
+2023-02-03 08:27:45,250 [main] INFO ebanking - New Customer Successfully Creater
+2023-02-03 08:27:45,643 [main] INFO ebanking - browser is closed
+2023-02-03 08:27:58,659 [main] INFO ebanking - browser is lunched
+2023-02-03 08:27:58,801 [main] INFO ebanking - UserName Provide
+2023-02-03 08:27:58,919 [main] INFO ebanking - Password Provide
+2023-02-03 08:28:00,831 [main] INFO ebanking - login click
+2023-02-03 08:28:02,848 [main] INFO ebanking - click editcustomer
+2023-02-03 08:28:02,948 [main] INFO ebanking - enter customer id
+2023-02-03 08:28:08,392 [main] INFO ebanking - summit
+2023-02-03 08:28:12,090 [main] INFO ebanking - new mobile no update
+2023-02-03 08:28:12,263 [main] INFO ebanking - summit
+2023-02-03 08:28:14,753 [main] INFO ebanking - browser is closed
+2023-02-03 08:28:25,934 [main] INFO ebanking - browser is lunched
+2023-02-03 08:28:26,125 [main] INFO ebanking - UserName Provide
+2023-02-03 08:28:26,248 [main] INFO ebanking - Password Provide
+2023-02-03 08:28:28,752 [main] INFO ebanking - login click
+2023-02-03 08:28:30,763 [main] INFO ebanking - New Account click
+2023-02-03 08:28:30,840 [main] INFO ebanking - customer id enter
+2023-02-03 08:28:36,451 [main] INFO ebanking - select account type
+2023-02-03 08:28:36,452 [main] INFO ebanking - ammount type
+2023-02-03 08:28:36,716 [main] INFO ebanking - summit account
+2023-02-03 08:28:39,788 [main] INFO ebanking - browser is closed
+2023-02-03 08:28:46,933 [main] INFO ebanking - browser is lunched
+2023-02-03 08:28:47,089 [main] INFO ebanking - UserName Provide
+2023-02-03 08:28:47,215 [main] INFO ebanking - Password Provide
+2023-02-03 08:28:49,156 [main] INFO ebanking - login click
+2023-02-03 08:28:51,163 [main] INFO ebanking - click edit customer
+2023-02-03 08:28:51,255 [main] INFO ebanking - enter the account number
+2023-02-03 08:28:55,534 [main] INFO ebanking - summit
+2023-02-03 08:28:57,139 [main] INFO ebanking - browser is closed
+2023-02-03 08:29:05,637 [main] INFO ebanking - browser is lunched
+2023-02-03 08:29:05,641 [main] INFO ebanking - UserName provide
+2023-02-03 08:29:05,838 [main] INFO ebanking - Password provide
+2023-02-03 08:29:05,954 [main] INFO ebanking - Summit login
+2023-02-03 08:29:08,477 [main] INFO ebanking - click deposit link page
+2023-02-03 08:29:12,384 [main] INFO ebanking - Enter account number
+2023-02-03 08:29:12,489 [main] INFO ebanking - Enter Ammount
+2023-02-03 08:29:12,568 [main] INFO ebanking - Description
+2023-02-03 08:29:12,662 [main] INFO ebanking - Enter Summit button
+2023-02-03 08:29:14,157 [main] INFO ebanking - browser is closed
+2023-02-03 08:29:26,442 [main] INFO ebanking - browser is lunched
+2023-02-03 08:29:26,445 [main] INFO ebanking - UserName Provider
+2023-02-03 08:29:26,586 [main] INFO ebanking - Password provider
+2023-02-03 08:29:26,723 [main] INFO ebanking - Summit button click
+2023-02-03 08:29:29,049 [main] INFO ebanking - Withdrawals button click
+2023-02-03 08:29:31,979 [main] INFO ebanking - Account number enter
+2023-02-03 08:29:32,091 [main] INFO ebanking - Ammount enter
+2023-02-03 08:29:32,243 [main] INFO ebanking - Description typing
+2023-02-03 08:29:32,338 [main] INFO ebanking - Summit button
+2023-02-03 08:29:34,116 [main] INFO ebanking - browser is closed
+2023-02-03 08:29:41,222 [main] INFO ebanking - browser is lunched
+2023-02-03 08:29:41,224 [main] INFO ebanking - UserName is Enter
+2023-02-03 08:29:41,327 [main] INFO ebanking - Password is Enter
+2023-02-03 08:29:41,435 [main] INFO ebanking - Summit button is enter
+2023-02-03 08:29:43,696 [main] INFO ebanking - Click Chnage password link
+2023-02-03 08:29:45,017 [main] INFO ebanking - Enter old password
+2023-02-03 08:29:45,121 [main] INFO ebanking - Enter new Password
+2023-02-03 08:29:45,433 [main] INFO ebanking - Confirm password is Enter
+2023-02-03 08:29:45,585 [main] INFO ebanking - Summit button click
+2023-02-03 08:29:47,128 [main] INFO ebanking - browser is closed
+2023-02-03 08:29:58,077 [main] INFO ebanking - browser is lunched
+2023-02-03 08:29:58,085 [main] INFO ebanking - UserName provide
+2023-02-03 08:29:58,231 [main] INFO ebanking - Password is Provide
+2023-02-03 08:29:58,427 [main] INFO ebanking - Summit button click
+2023-02-03 08:30:00,412 [main] INFO ebanking - Balance Enquery click
+2023-02-03 08:30:02,435 [main] INFO ebanking - Enter Account number
+2023-02-03 08:30:02,526 [main] INFO ebanking - Summit button click
+2023-02-03 08:30:04,257 [main] INFO ebanking - browser is closed
+2023-02-03 08:30:14,407 [main] INFO ebanking - browser is lunched
+2023-02-03 08:30:14,411 [main] INFO ebanking - UserName is provider
+2023-02-03 08:30:14,573 [main] INFO ebanking - PAssword is provide
+2023-02-03 08:30:14,739 [main] INFO ebanking - Summit buttton is click
+2023-02-03 08:30:16,787 [main] INFO ebanking - Click Mini Statemenet link
+2023-02-03 08:30:17,258 [main] INFO ebanking - Eneter the Account Number
+2023-02-03 08:30:20,635 [main] INFO ebanking - Summit button is click
+2023-02-03 08:30:22,323 [main] INFO ebanking - browser is closed
+2023-02-03 08:30:32,390 [main] INFO ebanking - browser is lunched
+2023-02-03 08:30:32,395 [main] INFO ebanking - UserName is Enter 
+2023-02-03 08:30:32,522 [main] INFO ebanking - Password is Enter
+2023-02-03 08:30:32,653 [main] INFO ebanking - Summit button is click
+2023-02-03 08:30:35,559 [main] INFO ebanking - click Customised Statement link
+2023-02-03 08:30:35,718 [main] INFO ebanking - Enter Account number
+2023-02-03 08:30:38,893 [main] INFO ebanking - Enter from date
+2023-02-03 08:30:39,252 [main] INFO ebanking - Enter to date 
+2023-02-03 08:30:39,418 [main] INFO ebanking - Minimum transaction enter
+2023-02-03 08:30:39,455 [main] INFO ebanking - Enter Number transaction 
+2023-02-03 08:30:39,530 [main] INFO ebanking - click summit button
+2023-02-03 08:30:41,156 [main] INFO ebanking - browser is closed
+2023-02-03 08:30:49,500 [main] INFO ebanking - browser is lunched
+2023-02-03 08:30:49,502 [main] INFO ebanking - UserName is Enter 
+2023-02-03 08:30:49,600 [main] INFO ebanking - Password is Enter
+2023-02-03 08:30:49,719 [main] INFO ebanking - Summit button is click
+2023-02-03 08:30:52,364 [main] INFO ebanking - Logout Successfully
+2023-02-03 08:30:55,065 [main] INFO ebanking - browser is closed
+2023-02-03 08:38:42,401 [main] INFO ebanking - browser is lunched
+2023-02-03 08:38:42,442 [main] INFO TC_LoginTest_001 - URL is opened
+2023-02-03 08:38:42,624 [main] INFO TC_LoginTest_001 - UserName is Enter
+2023-02-03 08:38:42,744 [main] INFO TC_LoginTest_001 - Password is Enter
+2023-02-03 08:38:52,195 [main] INFO TC_LoginTest_001 - Press Login Button
+2023-02-03 08:38:52,213 [main] INFO TC_LoginTest_001 - Login is Pass
+2023-02-03 08:38:52,537 [main] INFO ebanking - browser is closed
+2023-02-03 08:39:10,157 [main] INFO ebanking - browser is lunched
+2023-02-03 08:39:11,777 [main] INFO ebanking - userName enter
+2023-02-03 08:39:11,925 [main] INFO ebanking - Password Enter
+2023-02-03 08:39:12,751 [main] INFO ebanking - Click login
+2023-02-03 08:39:36,925 [main] INFO ebanking - userName enter
+2023-02-03 08:39:37,030 [main] INFO ebanking - Password Enter
+2023-02-03 08:39:38,726 [main] INFO ebanking - Click login
+2023-02-03 08:39:44,123 [main] INFO ebanking - userName enter
+2023-02-03 08:39:44,236 [main] INFO ebanking - Password Enter
+2023-02-03 08:39:46,246 [main] INFO ebanking - Click login
+2023-02-03 08:39:49,239 [main] INFO ebanking - userName enter
+2023-02-03 08:39:49,343 [main] INFO ebanking - Password Enter
+2023-02-03 08:40:00,612 [main] INFO ebanking - Click login
+2023-02-03 08:40:00,625 [main] INFO ebanking - Login successfull
+2023-02-03 08:40:07,620 [main] INFO ebanking - browser is closed
+2023-02-03 08:48:38,941 [main] INFO ebanking - browser is lunched
+2023-02-03 08:48:38,989 [main] INFO TC_LoginTest_001 - URL is opened
+2023-02-03 08:48:39,178 [main] INFO TC_LoginTest_001 - UserName is Enter
+2023-02-03 08:48:39,305 [main] INFO TC_LoginTest_001 - Password is Enter
+2023-02-03 08:48:58,429 [main] INFO TC_LoginTest_001 - Press Login Button
+2023-02-03 08:48:58,451 [main] INFO TC_LoginTest_001 - Login is Pass
+2023-02-03 08:48:58,803 [main] INFO ebanking - browser is closed
+2023-02-03 08:49:39,447 [main] INFO ebanking - browser is lunched
+2023-02-03 08:49:41,119 [main] INFO ebanking - userName enter
+2023-02-03 08:49:41,214 [main] INFO ebanking - Password Enter
+2023-02-03 08:49:42,404 [main] INFO ebanking - Click login
+2023-02-03 08:49:53,737 [main] INFO ebanking - userName enter
+2023-02-03 08:49:53,840 [main] INFO ebanking - Password Enter
+2023-02-03 08:49:56,334 [main] INFO ebanking - Click login
+2023-02-03 08:49:59,692 [main] INFO ebanking - userName enter
+2023-02-03 08:50:00,004 [main] INFO ebanking - Password Enter
+2023-02-03 08:50:01,317 [main] INFO ebanking - Click login
+2023-02-03 08:50:04,101 [main] INFO ebanking - userName enter
+2023-02-03 08:50:04,224 [main] INFO ebanking - Password Enter
+2023-02-03 08:50:11,516 [main] INFO ebanking - Click login
+2023-02-03 08:50:11,533 [main] INFO ebanking - Login successfull
+2023-02-03 08:50:21,136 [main] INFO ebanking - browser is closed
+2023-02-03 08:50:34,851 [main] INFO ebanking - browser is lunched
+2023-02-03 08:50:35,038 [main] INFO ebanking - UserName Provide
+2023-02-03 08:50:35,184 [main] INFO ebanking - Password Provide
+2023-02-03 08:50:43,150 [main] INFO ebanking - login click
+2023-02-03 08:50:45,277 [main] INFO ebanking - Click new Customer link
+2023-02-03 08:50:54,520 [main] INFO ebanking - Name Provide
+2023-02-03 08:50:54,592 [main] INFO ebanking - Click Gander
+2023-02-03 08:50:54,781 [main] INFO ebanking - DOB Provide
+2023-02-03 08:50:54,956 [main] INFO ebanking - Address Provide
+2023-02-03 08:50:55,069 [main] INFO ebanking - City Provide
+2023-02-03 08:50:55,177 [main] INFO ebanking - State Provide
+2023-02-03 08:50:55,287 [main] INFO ebanking - pincode Provide
+2023-02-03 08:50:55,651 [main] INFO ebanking - MobileNumber Provide
+2023-02-03 08:50:55,798 [main] INFO ebanking - EmailID Provide
+2023-02-03 08:50:55,899 [main] INFO ebanking - Password Provide
+2023-02-03 08:50:59,939 [main] INFO ebanking - Summit
+2023-02-03 08:51:02,948 [main] INFO ebanking - validation start
+2023-02-03 08:51:02,972 [main] INFO ebanking - New Customer Successfully Creater
+2023-02-03 08:51:03,318 [main] INFO ebanking - browser is closed
+2023-02-03 08:51:18,268 [main] INFO ebanking - browser is lunched
+2023-02-03 08:51:18,435 [main] INFO ebanking - UserName Provide
+2023-02-03 08:51:18,563 [main] INFO ebanking - Password Provide
+2023-02-03 08:51:24,784 [main] INFO ebanking - login click
+2023-02-03 08:51:26,799 [main] INFO ebanking - click editcustomer
+2023-02-03 08:51:26,926 [main] INFO ebanking - enter customer id
+2023-02-03 08:51:41,193 [main] INFO ebanking - summit
+2023-02-03 08:51:43,562 [main] INFO ebanking - new mobile no update
+2023-02-03 08:51:43,729 [main] INFO ebanking - summit
+2023-02-03 08:51:48,073 [main] INFO ebanking - browser is closed
+2023-02-03 08:53:00,606 [main] INFO ebanking - browser is lunched
+2023-02-03 08:53:00,743 [main] INFO ebanking - UserName Provide
+2023-02-03 08:53:00,859 [main] INFO ebanking - Password Provide
+2023-02-03 08:53:29,371 [main] INFO ebanking - login click
+2023-02-03 08:53:31,390 [main] INFO ebanking - New Account click
+2023-02-03 08:53:31,511 [main] INFO ebanking - customer id enter
+2023-02-03 08:53:37,968 [main] INFO ebanking - select account type
+2023-02-03 08:53:37,968 [main] INFO ebanking - ammount type
+2023-02-03 08:53:38,052 [main] INFO ebanking - summit account
+2023-02-03 08:53:45,569 [main] INFO ebanking - browser is closed
+2023-02-03 08:54:06,089 [main] INFO ebanking - browser is lunched
+2023-02-03 08:54:06,222 [main] INFO ebanking - UserName Provide
+2023-02-03 08:54:06,341 [main] INFO ebanking - Password Provide
+2023-02-03 08:54:11,934 [main] INFO ebanking - login click
+2023-02-03 08:54:13,958 [main] INFO ebanking - click edit customer
+2023-02-03 08:54:14,075 [main] INFO ebanking - enter the account number
+2023-02-03 08:54:17,589 [main] INFO ebanking - summit
+2023-02-03 08:54:20,093 [main] INFO ebanking - browser is closed
+2023-02-03 08:54:38,512 [main] INFO ebanking - browser is lunched
+2023-02-03 08:54:38,517 [main] INFO ebanking - UserName provide
+2023-02-03 08:54:38,663 [main] INFO ebanking - Password provide
+2023-02-03 08:54:38,797 [main] INFO ebanking - Summit login
+2023-02-03 08:54:43,483 [main] INFO ebanking - click deposit link page
+2023-02-03 08:54:45,584 [main] INFO ebanking - Enter account number
+2023-02-03 08:54:50,712 [main] INFO ebanking - Enter Ammount
+2023-02-03 08:54:50,992 [main] INFO ebanking - Description
+2023-02-03 08:54:51,095 [main] INFO ebanking - Enter Summit button
+2023-02-03 08:54:53,236 [main] INFO ebanking - browser is closed
+2023-02-03 08:55:20,569 [main] INFO ebanking - browser is lunched
+2023-02-03 08:55:20,578 [main] INFO ebanking - UserName Provider
+2023-02-03 08:55:20,717 [main] INFO ebanking - Password provider
+2023-02-03 08:55:20,846 [main] INFO ebanking - Summit button click
+2023-02-03 08:55:29,369 [main] INFO ebanking - Withdrawals button click
+2023-02-03 08:55:29,477 [main] INFO ebanking - Account number enter
+2023-02-03 08:55:37,975 [main] INFO ebanking - Ammount enter
+2023-02-03 08:55:38,080 [main] INFO ebanking - Description typing
+2023-02-03 08:55:38,362 [main] INFO ebanking - Summit button
+2023-02-03 08:55:40,474 [main] INFO ebanking - browser is closed
+2023-02-03 08:55:51,115 [main] INFO ebanking - browser is lunched
+2023-02-03 08:55:51,120 [main] INFO ebanking - UserName is Enter
+2023-02-03 08:55:51,227 [main] INFO ebanking - Password is Enter
+2023-02-03 08:55:51,325 [main] INFO ebanking - Summit button is enter
+2023-02-03 08:55:56,945 [main] INFO ebanking - Click Chnage password link
+2023-02-03 08:55:57,064 [main] INFO ebanking - Enter old password
+2023-02-03 08:56:03,951 [main] INFO ebanking - Enter new Password
+2023-02-03 08:56:04,061 [main] INFO ebanking - Confirm password is Enter
+2023-02-03 08:56:04,171 [main] INFO ebanking - Summit button click
+2023-02-03 08:56:10,020 [main] INFO ebanking - browser is closed
+2023-02-03 08:56:29,990 [main] INFO ebanking - browser is lunched
+2023-02-03 08:56:29,995 [main] INFO ebanking - UserName provide
+2023-02-03 08:56:30,182 [main] INFO ebanking - Password is Provide
+2023-02-03 08:56:30,323 [main] INFO ebanking - Summit button click
+2023-02-03 08:56:33,192 [main] INFO ebanking - Balance Enquery click
+2023-02-03 08:56:35,699 [main] INFO ebanking - Enter Account number
+2023-02-03 08:56:35,803 [main] INFO ebanking - Summit button click
+2023-02-03 08:56:37,574 [main] INFO ebanking - browser is closed
+2023-02-03 08:57:00,551 [main] INFO ebanking - browser is lunched
+2023-02-03 08:57:00,554 [main] INFO ebanking - UserName is provider
+2023-02-03 08:57:00,683 [main] INFO ebanking - PAssword is provide
+2023-02-03 08:57:00,813 [main] INFO ebanking - Summit buttton is click
+2023-02-03 08:57:04,396 [main] INFO ebanking - Click Mini Statemenet link
+2023-02-03 08:57:04,572 [main] INFO ebanking - Eneter the Account Number
+2023-02-03 08:57:11,713 [main] INFO ebanking - Summit button is click
+2023-02-03 08:57:13,343 [main] INFO ebanking - browser is closed
+2023-02-03 08:57:35,242 [main] INFO ebanking - browser is lunched
+2023-02-03 08:57:35,248 [main] INFO ebanking - UserName is Enter 
+2023-02-03 08:57:35,375 [main] INFO ebanking - Password is Enter
+2023-02-03 08:57:35,493 [main] INFO ebanking - Summit button is click
+2023-02-03 08:57:45,052 [main] INFO ebanking - click Customised Statement link
+2023-02-03 08:57:45,156 [main] INFO ebanking - Enter Account number
+2023-02-03 08:58:01,777 [main] INFO ebanking - Enter from date
+2023-02-03 08:58:01,928 [main] INFO ebanking - Enter to date 
+2023-02-03 08:58:02,077 [main] INFO ebanking - Minimum transaction enter
+2023-02-03 08:58:02,110 [main] INFO ebanking - Enter Number transaction 
+2023-02-03 08:58:02,178 [main] INFO ebanking - click summit button
+2023-02-03 08:58:03,741 [main] INFO ebanking - browser is closed
+2023-02-03 08:58:40,650 [main] INFO ebanking - browser is lunched
+2023-02-03 08:58:40,658 [main] INFO ebanking - UserName is Enter 
+2023-02-03 08:58:40,790 [main] INFO ebanking - Password is Enter
+2023-02-03 08:58:40,914 [main] INFO ebanking - Summit button is click
+2023-02-03 08:58:47,719 [main] INFO ebanking - Logout Successfully
+2023-02-03 08:58:52,836 [main] INFO ebanking - browser is closed
+2023-02-03 09:35:37,187 [main] INFO ebanking - browser is lunched
+2023-02-03 09:35:37,237 [main] INFO TC_LoginTest_001 - URL is opened
+2023-02-03 09:35:37,478 [main] INFO TC_LoginTest_001 - UserName is Enter
+2023-02-03 09:35:37,602 [main] INFO TC_LoginTest_001 - Password is Enter
+2023-02-03 09:35:39,641 [main] INFO TC_LoginTest_001 - Press Login Button
+2023-02-03 09:35:39,656 [main] INFO TC_LoginTest_001 - Login is Pass
+2023-02-03 09:35:39,981 [main] INFO ebanking - browser is closed
+2023-02-03 09:35:46,225 [main] INFO ebanking - browser is lunched
+2023-02-03 09:35:47,588 [main] INFO ebanking - userName enter
+2023-02-03 09:35:48,194 [main] INFO ebanking - Password Enter
+2023-02-03 09:35:48,658 [main] INFO ebanking - Click login
+2023-02-03 09:35:50,159 [main] INFO ebanking - userName enter
+2023-02-03 09:35:50,388 [main] INFO ebanking - Password Enter
+2023-02-03 09:35:50,931 [main] INFO ebanking - Click login
+2023-02-03 09:35:55,164 [main] INFO ebanking - userName enter
+2023-02-03 09:35:55,310 [main] INFO ebanking - Password Enter
+2023-02-03 09:35:55,844 [main] INFO ebanking - Click login
+2023-02-03 09:35:57,827 [main] INFO ebanking - userName enter
+2023-02-03 09:35:57,950 [main] INFO ebanking - Password Enter
+2023-02-03 09:36:00,136 [main] INFO ebanking - Click login
+2023-02-03 09:36:00,152 [main] INFO ebanking - Login successfull
+2023-02-03 09:36:03,150 [main] INFO ebanking - browser is closed
+2023-02-03 09:36:08,848 [main] INFO ebanking - browser is lunched
+2023-02-03 09:36:09,008 [main] INFO ebanking - UserName Provide
+2023-02-03 09:36:09,142 [main] INFO ebanking - Password Provide
+2023-02-03 09:36:10,953 [main] INFO ebanking - login click
+2023-02-03 09:36:13,079 [main] INFO ebanking - Click new Customer link
+2023-02-03 09:36:17,995 [main] INFO ebanking - Name Provide
+2023-02-03 09:36:18,063 [main] INFO ebanking - Click Gander
+2023-02-03 09:36:18,403 [main] INFO ebanking - DOB Provide
+2023-02-03 09:36:18,545 [main] INFO ebanking - Address Provide
+2023-02-03 09:36:18,646 [main] INFO ebanking - City Provide
+2023-02-03 09:36:18,744 [main] INFO ebanking - State Provide
+2023-02-03 09:36:18,836 [main] INFO ebanking - pincode Provide
+2023-02-03 09:36:18,968 [main] INFO ebanking - MobileNumber Provide
+2023-02-03 09:36:19,078 [main] INFO ebanking - EmailID Provide
+2023-02-03 09:36:19,165 [main] INFO ebanking - Password Provide
+2023-02-03 09:36:21,922 [main] INFO ebanking - Summit
+2023-02-03 09:36:24,936 [main] INFO ebanking - validation start
+2023-02-03 09:36:24,948 [main] INFO ebanking - New Customer Successfully Creater
+2023-02-03 09:36:25,280 [main] INFO ebanking - browser is closed
+2023-02-03 09:36:36,198 [main] INFO ebanking - browser is lunched
+2023-02-03 09:36:36,346 [main] INFO ebanking - UserName Provide
+2023-02-03 09:36:36,558 [main] INFO ebanking - Password Provide
+2023-02-03 09:36:38,424 [main] INFO ebanking - login click
+2023-02-03 09:36:40,432 [main] INFO ebanking - click editcustomer
+2023-02-03 09:36:40,528 [main] INFO ebanking - enter customer id
+2023-02-03 09:36:44,020 [main] INFO ebanking - summit
+2023-02-03 09:36:46,592 [main] INFO ebanking - new mobile no update
+2023-02-03 09:36:46,773 [main] INFO ebanking - summit
+2023-02-03 09:36:48,981 [main] INFO ebanking - browser is closed
+2023-02-03 09:36:55,780 [main] INFO ebanking - browser is lunched
+2023-02-03 09:36:55,917 [main] INFO ebanking - UserName Provide
+2023-02-03 09:36:56,129 [main] INFO ebanking - Password Provide
+2023-02-03 09:36:57,949 [main] INFO ebanking - login click
+2023-02-03 09:36:59,970 [main] INFO ebanking - New Account click
+2023-02-03 09:37:00,065 [main] INFO ebanking - customer id enter
+2023-02-03 09:37:03,525 [main] INFO ebanking - select account type
+2023-02-03 09:37:03,526 [main] INFO ebanking - ammount type
+2023-02-03 09:37:03,605 [main] INFO ebanking - summit account
+2023-02-03 09:37:06,804 [main] INFO ebanking - browser is closed
+2023-02-03 09:37:17,762 [main] INFO ebanking - browser is lunched
+2023-02-03 09:37:17,902 [main] INFO ebanking - UserName Provide
+2023-02-03 09:37:18,067 [main] INFO ebanking - Password Provide
+2023-02-03 09:37:19,809 [main] INFO ebanking - login click
+2023-02-03 09:37:21,827 [main] INFO ebanking - click edit customer
+2023-02-03 09:37:21,932 [main] INFO ebanking - enter the account number
+2023-02-03 09:37:25,149 [main] INFO ebanking - summit
+2023-02-03 09:37:27,443 [main] INFO ebanking - browser is closed
+2023-02-03 09:37:39,639 [main] INFO ebanking - browser is lunched
+2023-02-03 09:37:39,642 [main] INFO ebanking - UserName provide
+2023-02-03 09:37:39,809 [main] INFO ebanking - Password provide
+2023-02-03 09:37:40,006 [main] INFO ebanking - Summit login
+2023-02-03 09:37:42,525 [main] INFO ebanking - click deposit link page
+2023-02-03 09:37:44,620 [main] INFO ebanking - Enter account number
+2023-02-03 09:37:46,197 [main] INFO ebanking - Enter Ammount
+2023-02-03 09:37:46,296 [main] INFO ebanking - Description
+2023-02-03 09:37:46,566 [main] INFO ebanking - Enter Summit button
+2023-02-03 09:37:47,530 [main] INFO ebanking - browser is closed
+2023-02-03 09:37:58,470 [main] INFO ebanking - browser is lunched
+2023-02-03 09:37:58,474 [main] INFO ebanking - UserName Provider
+2023-02-03 09:37:58,613 [main] INFO ebanking - Password provider
+2023-02-03 09:37:58,735 [main] INFO ebanking - Summit button click
+2023-02-03 09:38:01,719 [main] INFO ebanking - Withdrawals button click
+2023-02-03 09:38:01,854 [main] INFO ebanking - Account number enter
+2023-02-03 09:38:06,034 [main] INFO ebanking - Ammount enter
+2023-02-03 09:38:06,126 [main] INFO ebanking - Description typing
+2023-02-03 09:38:06,414 [main] INFO ebanking - Summit button
+2023-02-03 09:38:07,636 [main] INFO ebanking - browser is closed
+2023-02-03 09:38:14,302 [main] INFO ebanking - browser is lunched
+2023-02-03 09:38:14,309 [main] INFO ebanking - UserName is Enter
+2023-02-03 09:38:14,486 [main] INFO ebanking - Password is Enter
+2023-02-03 09:38:14,610 [main] INFO ebanking - Summit button is enter
+2023-02-03 09:38:16,939 [main] INFO ebanking - Click Chnage password link
+2023-02-03 09:38:17,033 [main] INFO ebanking - Enter old password
+2023-02-03 09:38:20,201 [main] INFO ebanking - Enter new Password
+2023-02-03 09:38:20,509 [main] INFO ebanking - Confirm password is Enter
+2023-02-03 09:38:20,609 [main] INFO ebanking - Summit button click
+2023-02-03 09:38:22,161 [main] INFO ebanking - browser is closed
+2023-02-03 09:38:29,002 [main] INFO ebanking - browser is lunched
+2023-02-03 09:38:29,007 [main] INFO ebanking - UserName provide
+2023-02-03 09:38:29,168 [main] INFO ebanking - Password is Provide
+2023-02-03 09:38:29,290 [main] INFO ebanking - Summit button click
+2023-02-03 09:38:31,320 [main] INFO ebanking - Balance Enquery click
+2023-02-03 09:38:32,956 [main] INFO ebanking - Enter Account number
+2023-02-03 09:38:33,243 [main] INFO ebanking - Summit button click
+2023-02-03 09:38:34,500 [main] INFO ebanking - browser is closed
+2023-02-03 09:38:43,237 [main] INFO ebanking - browser is lunched
+2023-02-03 09:38:43,239 [main] INFO ebanking - UserName is provider
+2023-02-03 09:38:43,357 [main] INFO ebanking - PAssword is provide
+2023-02-03 09:38:43,505 [main] INFO ebanking - Summit buttton is click
+2023-02-03 09:38:46,476 [main] INFO ebanking - Click Mini Statemenet link
+2023-02-03 09:38:46,588 [main] INFO ebanking - Eneter the Account Number
+2023-02-03 09:38:50,670 [main] INFO ebanking - Summit button is click
+2023-02-03 09:38:52,826 [main] INFO ebanking - browser is closed
+2023-02-03 09:38:58,869 [main] INFO ebanking - browser is lunched
+2023-02-03 09:38:58,872 [main] INFO ebanking - UserName is Enter 
+2023-02-03 09:38:59,029 [main] INFO ebanking - Password is Enter
+2023-02-03 09:38:59,190 [main] INFO ebanking - Summit button is click
+2023-02-03 09:39:02,235 [main] INFO ebanking - click Customised Statement link
+2023-02-03 09:39:02,375 [main] INFO ebanking - Enter Account number
+2023-02-03 09:39:05,857 [main] INFO ebanking - Enter from date
+2023-02-03 09:39:06,246 [main] INFO ebanking - Enter to date 
+2023-02-03 09:39:06,402 [main] INFO ebanking - Minimum transaction enter
+2023-02-03 09:39:06,443 [main] INFO ebanking - Enter Number transaction 
+2023-02-03 09:39:06,526 [main] INFO ebanking - click summit button
+2023-02-03 09:39:07,698 [main] INFO ebanking - browser is closed
+2023-02-03 09:39:15,445 [main] INFO ebanking - browser is lunched
+2023-02-03 09:39:15,450 [main] INFO ebanking - UserName is Enter 
+2023-02-03 09:39:15,645 [main] INFO ebanking - Password is Enter
+2023-02-03 09:39:15,797 [main] INFO ebanking - Summit button is click
+2023-02-03 09:39:17,720 [main] INFO ebanking - Logout Successfully
+2023-02-03 09:39:20,289 [main] INFO ebanking - browser is closed
+2023-02-03 09:39:30,072 [main] INFO ebanking - browser is lunched
+2023-02-03 09:39:30,085 [main] INFO TC_LoginTest_001 - URL is opened
+2023-02-03 09:39:30,244 [main] INFO TC_LoginTest_001 - UserName is Enter
+2023-02-03 09:39:30,447 [main] INFO TC_LoginTest_001 - Password is Enter
+2023-02-03 09:39:33,711 [main] INFO TC_LoginTest_001 - Press Login Button
+2023-02-03 09:39:33,727 [main] INFO TC_LoginTest_001 - Login is Pass
+2023-02-03 09:39:34,084 [main] INFO ebanking - browser is closed
+2023-02-03 09:39:41,131 [main] INFO ebanking - browser is lunched
+2023-02-03 09:39:41,431 [main] INFO ebanking - userName enter
+2023-02-03 09:39:41,519 [main] INFO ebanking - Password Enter
+2023-02-03 09:39:42,231 [main] INFO ebanking - Click login
+2023-02-03 09:39:44,186 [main] INFO ebanking - userName enter
+2023-02-03 09:39:44,373 [main] INFO ebanking - Password Enter
+2023-02-03 09:39:44,830 [main] INFO ebanking - Click login
+2023-02-03 09:39:46,341 [main] INFO ebanking - userName enter
+2023-02-03 09:39:46,683 [main] INFO ebanking - Password Enter
+2023-02-03 09:39:47,120 [main] INFO ebanking - Click login
+2023-02-03 09:39:48,639 [main] INFO ebanking - userName enter
+2023-02-03 09:39:49,221 [main] INFO ebanking - Password Enter
+2023-02-03 09:39:51,088 [main] INFO ebanking - Click login
+2023-02-03 09:39:51,093 [main] INFO ebanking - Login successfull
+2023-02-03 09:39:53,745 [main] INFO ebanking - browser is closed
+2023-02-03 09:40:02,994 [main] INFO ebanking - browser is lunched
+2023-02-03 09:40:03,128 [main] INFO ebanking - UserName Provide
+2023-02-03 09:40:03,247 [main] INFO ebanking - Password Provide
+2023-02-03 09:40:05,157 [main] INFO ebanking - login click
+2023-02-03 09:40:07,281 [main] INFO ebanking - Click new Customer link
+2023-02-03 09:40:11,621 [main] INFO ebanking - Name Provide
+2023-02-03 09:40:11,931 [main] INFO ebanking - Click Gander
+2023-02-03 09:40:12,126 [main] INFO ebanking - DOB Provide
+2023-02-03 09:40:12,265 [main] INFO ebanking - Address Provide
+2023-02-03 09:40:12,370 [main] INFO ebanking - City Provide
+2023-02-03 09:40:12,462 [main] INFO ebanking - State Provide
+2023-02-03 09:40:12,545 [main] INFO ebanking - pincode Provide
+2023-02-03 09:40:12,671 [main] INFO ebanking - MobileNumber Provide
+2023-02-03 09:40:12,790 [main] INFO ebanking - EmailID Provide
+2023-02-03 09:40:12,863 [main] INFO ebanking - Password Provide
+2023-02-03 09:40:14,994 [main] INFO ebanking - Summit
+2023-02-03 09:40:18,006 [main] INFO ebanking - validation start
+2023-02-03 09:40:18,027 [main] INFO ebanking - New Customer Successfully Creater
+2023-02-03 09:40:18,477 [main] INFO ebanking - browser is closed
+2023-02-03 09:40:26,588 [main] INFO ebanking - browser is lunched
+2023-02-03 09:40:26,766 [main] INFO ebanking - UserName Provide
+2023-02-03 09:40:26,900 [main] INFO ebanking - Password Provide
+2023-02-03 09:40:29,048 [main] INFO ebanking - login click
+2023-02-03 09:40:31,062 [main] INFO ebanking - click editcustomer
+2023-02-03 09:40:31,183 [main] INFO ebanking - enter customer id
+2023-02-03 09:40:34,401 [main] INFO ebanking - summit
+2023-02-03 09:40:36,690 [main] INFO ebanking - new mobile no update
+2023-02-03 09:40:37,039 [main] INFO ebanking - summit
+2023-02-03 09:40:39,460 [main] INFO ebanking - browser is closed
+2023-02-03 09:40:46,711 [main] INFO ebanking - browser is lunched
+2023-02-03 09:40:46,880 [main] INFO ebanking - UserName Provide
+2023-02-03 09:40:47,022 [main] INFO ebanking - Password Provide
+2023-02-03 09:40:49,095 [main] INFO ebanking - login click
+2023-02-03 09:40:51,104 [main] INFO ebanking - New Account click
+2023-02-03 09:40:51,206 [main] INFO ebanking - customer id enter
+2023-02-03 09:40:54,429 [main] INFO ebanking - select account type
+2023-02-03 09:40:54,430 [main] INFO ebanking - ammount type
+2023-02-03 09:40:54,657 [main] INFO ebanking - summit account
+2023-02-03 09:40:57,674 [main] INFO ebanking - browser is closed
+2023-02-03 09:41:07,240 [main] INFO ebanking - browser is lunched
+2023-02-03 09:41:07,453 [main] INFO ebanking - UserName Provide
+2023-02-03 09:41:07,601 [main] INFO ebanking - Password Provide
+2023-02-03 09:41:09,597 [main] INFO ebanking - login click
+2023-02-03 09:41:11,611 [main] INFO ebanking - click edit customer
+2023-02-03 09:41:13,804 [main] INFO ebanking - enter the account number
+2023-02-03 09:41:13,918 [main] INFO ebanking - summit
+2023-02-03 09:41:15,740 [main] INFO ebanking - browser is closed
+2023-02-03 09:41:24,342 [main] INFO ebanking - browser is lunched
+2023-02-03 09:41:24,352 [main] INFO ebanking - UserName provide
+2023-02-03 09:41:24,499 [main] INFO ebanking - Password provide
+2023-02-03 09:41:24,648 [main] INFO ebanking - Summit login
+2023-02-03 09:41:27,359 [main] INFO ebanking - click deposit link page
+2023-02-03 09:41:29,449 [main] INFO ebanking - Enter account number
+2023-02-03 09:41:31,282 [main] INFO ebanking - Enter Ammount
+2023-02-03 09:41:31,551 [main] INFO ebanking - Description
+2023-02-03 09:41:31,648 [main] INFO ebanking - Enter Summit button
+2023-02-03 09:41:33,387 [main] INFO ebanking - browser is closed
+2023-02-03 09:41:40,631 [main] INFO ebanking - browser is lunched
+2023-02-03 09:41:40,634 [main] INFO ebanking - UserName Provider
+2023-02-03 09:41:40,883 [main] INFO ebanking - Password provider
+2023-02-03 09:41:41,009 [main] INFO ebanking - Summit button click
+2023-02-03 09:41:43,638 [main] INFO ebanking - Withdrawals button click
+2023-02-03 09:41:45,258 [main] INFO ebanking - Account number enter
+2023-02-03 09:41:45,391 [main] INFO ebanking - Ammount enter
+2023-02-03 09:41:45,549 [main] INFO ebanking - Description typing
+2023-02-03 09:41:45,636 [main] INFO ebanking - Summit button
+2023-02-03 09:41:46,900 [main] INFO ebanking - browser is closed
+2023-02-03 09:41:56,074 [main] INFO ebanking - browser is lunched
+2023-02-03 09:41:56,077 [main] INFO ebanking - UserName is Enter
+2023-02-03 09:41:56,208 [main] INFO ebanking - Password is Enter
+2023-02-03 09:41:56,360 [main] INFO ebanking - Summit button is enter
+2023-02-03 09:42:00,351 [main] INFO ebanking - Click Chnage password link
+2023-02-03 09:42:00,455 [main] INFO ebanking - Enter old password
+2023-02-03 09:42:03,713 [main] INFO ebanking - Enter new Password
+2023-02-03 09:42:04,033 [main] INFO ebanking - Confirm password is Enter
+2023-02-03 09:42:04,120 [main] INFO ebanking - Summit button click
+2023-02-03 09:42:05,857 [main] INFO ebanking - browser is closed
+2023-02-03 09:42:12,928 [main] INFO ebanking - browser is lunched
+2023-02-03 09:42:12,931 [main] INFO ebanking - UserName provide
+2023-02-03 09:42:13,101 [main] INFO ebanking - Password is Provide
+2023-02-03 09:42:13,192 [main] INFO ebanking - Summit button click
+2023-02-03 09:42:15,256 [main] INFO ebanking - Balance Enquery click
+2023-02-03 09:42:16,741 [main] INFO ebanking - Enter Account number
+2023-02-03 09:42:16,834 [main] INFO ebanking - Summit button click
+2023-02-03 09:42:17,970 [main] INFO ebanking - browser is closed
+2023-02-03 09:42:24,338 [main] INFO ebanking - browser is lunched
+2023-02-03 09:42:24,346 [main] INFO ebanking - UserName is provider
+2023-02-03 09:42:24,535 [main] INFO ebanking - PAssword is provide
+2023-02-03 09:42:24,633 [main] INFO ebanking - Summit buttton is click
+2023-02-03 09:42:26,625 [main] INFO ebanking - Click Mini Statemenet link
+2023-02-03 09:42:26,813 [main] INFO ebanking - Eneter the Account Number
+2023-02-03 09:42:29,780 [main] INFO ebanking - Summit button is click
+2023-02-03 09:42:31,055 [main] INFO ebanking - browser is closed
+2023-02-03 09:42:38,510 [main] INFO ebanking - browser is lunched
+2023-02-03 09:42:38,514 [main] INFO ebanking - UserName is Enter 
+2023-02-03 09:42:38,647 [main] INFO ebanking - Password is Enter
+2023-02-03 09:42:38,898 [main] INFO ebanking - Summit button is click
+2023-02-03 09:42:41,498 [main] INFO ebanking - click Customised Statement link
+2023-02-03 09:42:41,611 [main] INFO ebanking - Enter Account number
+2023-02-03 09:42:44,698 [main] INFO ebanking - Enter from date
+2023-02-03 09:42:45,022 [main] INFO ebanking - Enter to date 
+2023-02-03 09:42:45,183 [main] INFO ebanking - Minimum transaction enter
+2023-02-03 09:42:45,213 [main] INFO ebanking - Enter Number transaction 
+2023-02-03 09:42:45,282 [main] INFO ebanking - click summit button
+2023-02-03 09:42:46,444 [main] INFO ebanking - browser is closed
+2023-02-03 09:42:54,553 [main] INFO ebanking - browser is lunched
+2023-02-03 09:42:54,556 [main] INFO ebanking - UserName is Enter 
+2023-02-03 09:42:54,797 [main] INFO ebanking - Password is Enter
+2023-02-03 09:42:54,932 [main] INFO ebanking - Summit button is click
+2023-02-03 09:42:56,987 [main] INFO ebanking - Logout Successfully
+2023-02-03 09:42:59,653 [main] INFO ebanking - browser is closed
